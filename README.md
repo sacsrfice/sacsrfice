@@ -1,24 +1,15 @@
 <!--The background color should be `#a9a1c4` for light mode and `#1c1630` for dark mode.-->
 
 
->You're the love I always wanted
-
->Free falling through the time after life
-
->I’m paralyzed cause there's nothing
-
->That can stop my fall
-
->In the void we can hold each other
-
->Till our brains and our guts splatter all over the fucking sidewalk
-
->Together
-
-
-
-
-###### [Genius](https://genius.com/22426364?)
+**college student, ISC2 candidate. aspiring cybersecurity engineer and perceiver of documentation**
+>Studying:
+>* Python
+>* Lua
+>* Java
+>* C
+>* JS
+>* bash
+>* SQL
 
 
 <!--
