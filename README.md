@@ -1,14 +1,16 @@
 <!--The background color should be `#a9a1c4` for light mode and `#1c1630` for dark mode.-->
 
 
-**college student, ISC2 candidate. aspiring cybersecurity engineer and perceiver of documentation**
->Studying:
+**purdue grad BS in Cybersecurity, A+, CC, Security+. aspiring cybersecurity engineer and perceiver of documentation**
+>Actively studying:
+>* Network+
+>* CySA+
 >* Python
 >* Lua
 >* Java
 >* C
 >* JS
->* bash
+>* shell scripting (primarily bash)
 >* SQL
 
 
