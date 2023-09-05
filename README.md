@@ -1,10 +1,8 @@
 <!--The background color should be `#a9a1c4` for light mode and `#1c1630` for dark mode.-->
 
 
-**purdue grad BS in Cybersecurity, A+, CC, Security+. aspiring cybersecurity engineer and perceiver of documentation**
+**purdue grad BS in Cybersecurity, CSAP, CSIS, CIOS, CC. aspiring cybersecurity engineer and perceiver of documentation**
 >Actively studying:
->* Network+
->* CySA+
 >* Python
 >* Lua
 >* Java
