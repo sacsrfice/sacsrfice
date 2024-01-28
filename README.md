@@ -1,16 +1,6 @@
 <!--The background color should be `#a9a1c4` for light mode and `#1c1630` for dark mode.-->
 
-
-**purdue grad BS in Cybersecurity, CSAP, CSIS, CIOS, CC. aspiring cybersecurity engineer and perceiver of documentation**
->Actively studying:
->* Python
->* Lua
->* Java
->* C
->* JS
->* shell scripting (primarily bash)
->* SQL
-
+**aspiring cybersecurity engineer and perceiver of documentation**
 
 <!--
 **crypticredux/crypticredux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
