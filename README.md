@@ -1,7 +1,4 @@
 <!--The background color should be `#a9a1c4` for light mode and `#1c1630` for dark mode.-->
-
-**aspiring cybersecurity engineer and perceiver of documentation**
-
 <!--
 **crypticredux/crypticredux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
